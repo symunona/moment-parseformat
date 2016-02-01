@@ -1,5 +1,6 @@
 {
   "name": "moment-parseformat",
+  "version": "0.0.1",
   "description": "A moment.js plugin to extract the format of a date/time string",
   "scripts": {
     "start": "npm run build:demo && beefy ./index.js --cwd=./demo",
